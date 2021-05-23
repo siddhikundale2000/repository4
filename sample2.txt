@@ -1,1 +1,2 @@
 This is second file - sample2.
+updating sample2 file.
